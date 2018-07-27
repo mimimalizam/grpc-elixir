@@ -1,3 +1,4 @@
 use Mix.Config
 
-config :grpc, http2_client_adapter: GRPC.Adapter.Gun
+# Start server in OTP
+# config :grpc, start_server: true

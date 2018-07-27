@@ -1,2 +1,0 @@
-defmodule Interop do
-end
