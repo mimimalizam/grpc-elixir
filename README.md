@@ -1,6 +1,9 @@
 # Helloworld in grpc-elixir
 
 This example is originally found in [this repo](https://github.com/tony612/grpc-elixir).
+Since this example is being run in the [BoxBox](https://github.com/renderedtext/boxbox) environment,
+client (`prvi/client.exs`) is connecting to `boxbox:50051`.
+In general, it can be replaced, e.g with `localhost:50051`.
 
 ## Usage
 
